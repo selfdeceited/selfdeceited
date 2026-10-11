@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Anton, and love making software that can make impact and change the world for the better.
+
+Among others, I've worked in [Align Technology](https://www.aligntech.com/) and [Dodo Brands](https://dodobrands.io/).
+
+Lately I mostly focus on helping teams do their best, as the tech lead or the engineering manager.
+
+In case you're interested here's [my CV](https://cv-generator-theta-eight.vercel.app/?data=https://raw.githubusercontent.com/selfdeceited/cv-generator/refs/heads/main/archive/10-oct-26.json).
+
 <!--
 **selfdeceited/selfdeceited** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
